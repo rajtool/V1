@@ -94,8 +94,6 @@ See LICENSE file (if applicable).
 ## 🔗 Links
 
 - Website: https://www.rajtool.com
-- Product Hunt: (add after launch)
-- GitHub: https://github.com/your-username
 
 ---
 
